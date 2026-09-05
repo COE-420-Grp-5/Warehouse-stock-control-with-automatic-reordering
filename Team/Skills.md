@@ -10,3 +10,6 @@ MySQL, Python, C++, Leadership, Web Development, Cyber Security, Kali Linux, Jav
 
 C++, Java, Python, MySQL, Web Development, C#, Project Management, JavaScript
 
+
+
+C++, Python, JavaScript, Java, SQL, HTML, CSS, Bootstrap, Git, GitHub, MySQL, Java Servlets

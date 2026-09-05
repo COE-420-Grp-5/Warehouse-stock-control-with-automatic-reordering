@@ -10,3 +10,6 @@ Walid Al Azzeh, b00099188, Computer Science, Sweeezyz
 
 Umaima Zaheer, g00094590, Computer Science, Umaimakhan2025
 
+
+
+Faris Abu Shaqra, B00100808, Computer Science, FarisAbuShaqra
